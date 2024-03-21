@@ -1,1 +1,0 @@
-import{_ as s,c as a,o as e,a4 as i}from"./chunks/framework.D2jOCvfL.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"readme.md","filePath":"readme.md","lastUpdated":null}'),t={name:"readme.md"},n=i("",4),l=[n];function h(p,d,r,o,c,k){return e(),a("div",null,l)}const F=s(t,[["render",h]]);export{u as __pageData,F as default};

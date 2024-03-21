@@ -5,7 +5,7 @@ export default {
   titleTemplate: ':title - Custom Suffix',
   description: 'Just playing around.',
   //设置防止md文件的根目录
-  srcDir: './src',
+  //srcDir: './src',
   //是否清除后缀的html
   cleanUrls: true,
   //白色和暗黑模式，默认为 true，可以设置为 false
