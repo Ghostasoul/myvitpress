@@ -8,7 +8,7 @@ set -e
 npm run build
 
 # 进入生成的文件夹
-
+# 前边的src是项目中src文件夹的值
 cd src/.vitepress/dist
 
 git init
