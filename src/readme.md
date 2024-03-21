@@ -10,8 +10,8 @@ npm run serve
 npm run dev
 ```
 
-### 部署到GitHub：
-`部署到的是myvitpress项目中的blog分支`
+### 编译后的文件部署到GitHub：
+`部署到的是myvitpress项目中的blog分支，main分支存储的是源文件`
 ```shell
 npm run deploy
 ```
